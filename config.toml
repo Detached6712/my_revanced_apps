@@ -6,7 +6,8 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[com.google.android.apps.photos]
+[GPhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 arch = "arm64-v8a"
 included-patches = "'Enable DCIM folders backup control'"
+
