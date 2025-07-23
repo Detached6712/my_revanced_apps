@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[GPhotos]
+[GooglePhotos]
 build-mode = "apk"
 arch = "arm64-v8a"
 version = "latest"
