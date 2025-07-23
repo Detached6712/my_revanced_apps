@@ -8,7 +8,7 @@ parallel-jobs = 1
 
 [GooglePhotos]
 included-patches = "'Enable DCIM folders backup control'"
-build-mode = "both"
+build-mode = "apk"
+version = "'7.37.0.785521284'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
-version = "auto"
-arch = "both"
+arch = "arm64-v8a"
