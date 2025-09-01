@@ -1,5 +1,6 @@
 Facebook: 490.0.0.63.82  
 GPhotos: 7.43.0.800596475  
+Recorder: 4.2.20241220.725581069  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  
